@@ -179,6 +179,7 @@ Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) tak
 - [🔗 Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/Embedded%20Systems%20Skill%20Tree)
 - [🔗 PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
 - [🔗 FPGA / ASIC Engineering Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
+- [🔗 Emertxe - Embedded Systems Roadmap & Syllabus (Bangla)](resources/emertxe-roadmap-syllabus-bangla.md)
 - [🔗 Emertxe - Embedded Systems Roadmap & Syllabus](resources/emertxe-roadmap-syllabus.md)
 
 ### 🛠️ IDEs
