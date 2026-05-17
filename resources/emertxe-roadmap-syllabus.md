@@ -27,6 +27,7 @@ Team Emertxe - Embedded Training Division
 - Emertxe Placement Partners
 - Syllabus Overview - Your Roadmap to Expert Embedded Developer
 - Program Module in Detail - Learning That Builds
+- [Module-wise Book Recommendations](emertxe-module-books.md)
 - Beyond Tech Skills - Resume, Interview Prep, Mock Interviews Etc.
 - ECEP Student's Sample Resume
 - Certified by Skill India, NSDC & ESSCI
